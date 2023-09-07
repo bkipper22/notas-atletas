@@ -9,8 +9,8 @@ function calcularMediaNotas(atletas) {
 
     // 
     if (notas.length >= 3) {
-      notas.pop(); // Remove a maior nota
-      notas.shift(); // Remove a menor nota
+      notas.pop(); // 
+      notas.shift(); // 
     }
 
     // 
